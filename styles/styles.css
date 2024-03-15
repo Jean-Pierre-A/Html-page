@@ -1,0 +1,19 @@
+body{
+
+    background-image: url(/imgs/fondo2.jpg)
+}
+main {
+    padding-left: 50px;
+}
+
+main > h1 {
+    border: 1px solid black;
+}
+
+ul > li {
+    list-style-type: armenian;
+}
+ol > li {
+    list-style-type:square;
+}
+
